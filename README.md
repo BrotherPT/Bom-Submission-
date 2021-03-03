@@ -1,4 +1,3 @@
-# Submissions
+# Tic-Tac-Toe game
 
-I am working on the TIC-TAC-TOE game using individually adressable rgb's and buttons. 
-My current board design consists of a LED next to a button.
+This project consists of a small Tic-Tac-Toe game, it uses individual adressable RGB'S,buttons and 328pb as the chip. The schematic and board design were done using Eagle.
